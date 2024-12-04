@@ -2,6 +2,12 @@
 name = "azucar"
 version = "0.1.0"
 edition = "2021"
+authors = ["sarah quiñones <sarah@veganb.tw>"]
+description = "syntax sugar"
+readme = "../README.md"
+repository = "https://github.com/sarah-quinones/azucar/"
+license = "MIT"
+keywords = ["syntax"]
 
 [dependencies]
 azucar-macro = { version = "0.1.0", path = "../azucar-macro" }
