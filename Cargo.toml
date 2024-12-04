@@ -1,0 +1,3 @@
+[workspace]
+members = ["azucar", "azucar-macro"]
+resolver = "2"

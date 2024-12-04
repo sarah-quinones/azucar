@@ -1,0 +1,7 @@
+[package]
+name = "azucar"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+azucar-macro = { version = "0.1.0", path = "../azucar-macro" }
